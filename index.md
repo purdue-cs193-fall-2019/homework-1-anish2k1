@@ -1,6 +1,6 @@
-# Anish's First CS193
+# Anish's First CS193 Homework
 
-1.I like working out
-2.I like eating chicken 
-3.I like listening to music
-4.I love college football
+- I like working out
+- I like eating chicken 
+- I like listening to music
+- I love college football
